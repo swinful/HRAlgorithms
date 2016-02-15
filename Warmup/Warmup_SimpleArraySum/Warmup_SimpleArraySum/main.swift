@@ -1,4 +1,10 @@
-
+//
+//  main.swift
+//  Warmup_SimpleArraySum
+//
+//  Created by Samuel A WINFUL on 2/14/16.
+//  Copyright © 2016 Samuel A WINFUL. All rights reserved.
+//
 import Foundation
 
 let n = Int(readLine()!)!

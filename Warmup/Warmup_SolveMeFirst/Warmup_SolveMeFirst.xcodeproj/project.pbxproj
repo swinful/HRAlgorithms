@@ -7,11 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		CCB6C8501C28C0F80041E6C5 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCB6C84F1C28C0F80041E6C5 /* main.swift */; };
+		CCA7956D1C7184540098AC9D /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCA7956C1C7184540098AC9D /* main.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
-		CCB6C84A1C28C0F80041E6C5 /* CopyFiles */ = {
+		CCA795671C7184540098AC9D /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
 			dstPath = /usr/share/man/man1/;
@@ -23,12 +23,12 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		CCB6C84C1C28C0F80041E6C5 /* Algorithms_Pairs */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algorithms_Pairs; sourceTree = BUILT_PRODUCTS_DIR; };
-		CCB6C84F1C28C0F80041E6C5 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		CCA795691C7184540098AC9D /* Warmup_SolveMeFirst */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Warmup_SolveMeFirst; sourceTree = BUILT_PRODUCTS_DIR; };
+		CCA7956C1C7184540098AC9D /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		CCB6C8491C28C0F80041E6C5 /* Frameworks */ = {
+		CCA795661C7184540098AC9D /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -38,95 +38,95 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		CCB6C8431C28C0F80041E6C5 = {
+		CCA795601C7184540098AC9D = {
 			isa = PBXGroup;
 			children = (
-				CCB6C84E1C28C0F80041E6C5 /* Algorithms_Pairs */,
-				CCB6C84D1C28C0F80041E6C5 /* Products */,
+				CCA7956B1C7184540098AC9D /* Warmup_SolveMeFirst */,
+				CCA7956A1C7184540098AC9D /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		CCB6C84D1C28C0F80041E6C5 /* Products */ = {
+		CCA7956A1C7184540098AC9D /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				CCB6C84C1C28C0F80041E6C5 /* Algorithms_Pairs */,
+				CCA795691C7184540098AC9D /* Warmup_SolveMeFirst */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		CCB6C84E1C28C0F80041E6C5 /* Algorithms_Pairs */ = {
+		CCA7956B1C7184540098AC9D /* Warmup_SolveMeFirst */ = {
 			isa = PBXGroup;
 			children = (
-				CCB6C84F1C28C0F80041E6C5 /* main.swift */,
+				CCA7956C1C7184540098AC9D /* main.swift */,
 			);
-			path = Algorithms_Pairs;
+			path = Warmup_SolveMeFirst;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		CCB6C84B1C28C0F80041E6C5 /* Algorithms_Pairs */ = {
+		CCA795681C7184540098AC9D /* Warmup_SolveMeFirst */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = CCB6C8531C28C0F80041E6C5 /* Build configuration list for PBXNativeTarget "Algorithms_Pairs" */;
+			buildConfigurationList = CCA795701C7184540098AC9D /* Build configuration list for PBXNativeTarget "Warmup_SolveMeFirst" */;
 			buildPhases = (
-				CCB6C8481C28C0F80041E6C5 /* Sources */,
-				CCB6C8491C28C0F80041E6C5 /* Frameworks */,
-				CCB6C84A1C28C0F80041E6C5 /* CopyFiles */,
+				CCA795651C7184540098AC9D /* Sources */,
+				CCA795661C7184540098AC9D /* Frameworks */,
+				CCA795671C7184540098AC9D /* CopyFiles */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = Algorithms_Pairs;
-			productName = Algorithms_Pairs;
-			productReference = CCB6C84C1C28C0F80041E6C5 /* Algorithms_Pairs */;
+			name = Warmup_SolveMeFirst;
+			productName = Warmup_SolveMeFirst;
+			productReference = CCA795691C7184540098AC9D /* Warmup_SolveMeFirst */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		CCB6C8441C28C0F80041E6C5 /* Project object */ = {
+		CCA795611C7184540098AC9D /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0720;
 				LastUpgradeCheck = 0720;
 				ORGANIZATIONNAME = "Samuel A WINFUL";
 				TargetAttributes = {
-					CCB6C84B1C28C0F80041E6C5 = {
-						CreatedOnToolsVersion = 7.2;
+					CCA795681C7184540098AC9D = {
+						CreatedOnToolsVersion = 7.2.1;
 					};
 				};
 			};
-			buildConfigurationList = CCB6C8471C28C0F80041E6C5 /* Build configuration list for PBXProject "Algorithms_Pairs" */;
+			buildConfigurationList = CCA795641C7184540098AC9D /* Build configuration list for PBXProject "Warmup_SolveMeFirst" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 			);
-			mainGroup = CCB6C8431C28C0F80041E6C5;
-			productRefGroup = CCB6C84D1C28C0F80041E6C5 /* Products */;
+			mainGroup = CCA795601C7184540098AC9D;
+			productRefGroup = CCA7956A1C7184540098AC9D /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				CCB6C84B1C28C0F80041E6C5 /* Algorithms_Pairs */,
+				CCA795681C7184540098AC9D /* Warmup_SolveMeFirst */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXSourcesBuildPhase section */
-		CCB6C8481C28C0F80041E6C5 /* Sources */ = {
+		CCA795651C7184540098AC9D /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CCB6C8501C28C0F80041E6C5 /* main.swift in Sources */,
+				CCA7956D1C7184540098AC9D /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		CCB6C8511C28C0F80041E6C5 /* Debug */ = {
+		CCA7956E1C7184540098AC9D /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -170,7 +170,7 @@
 			};
 			name = Debug;
 		};
-		CCB6C8521C28C0F80041E6C5 /* Release */ = {
+		CCA7956F1C7184540098AC9D /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -206,14 +206,14 @@
 			};
 			name = Release;
 		};
-		CCB6C8541C28C0F80041E6C5 /* Debug */ = {
+		CCA795711C7184540098AC9D /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
 		};
-		CCB6C8551C28C0F80041E6C5 /* Release */ = {
+		CCA795721C7184540098AC9D /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -223,25 +223,24 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		CCB6C8471C28C0F80041E6C5 /* Build configuration list for PBXProject "Algorithms_Pairs" */ = {
+		CCA795641C7184540098AC9D /* Build configuration list for PBXProject "Warmup_SolveMeFirst" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				CCB6C8511C28C0F80041E6C5 /* Debug */,
-				CCB6C8521C28C0F80041E6C5 /* Release */,
+				CCA7956E1C7184540098AC9D /* Debug */,
+				CCA7956F1C7184540098AC9D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		CCB6C8531C28C0F80041E6C5 /* Build configuration list for PBXNativeTarget "Algorithms_Pairs" */ = {
+		CCA795701C7184540098AC9D /* Build configuration list for PBXNativeTarget "Warmup_SolveMeFirst" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				CCB6C8541C28C0F80041E6C5 /* Debug */,
-				CCB6C8551C28C0F80041E6C5 /* Release */,
+				CCA795711C7184540098AC9D /* Debug */,
+				CCA795721C7184540098AC9D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = CCB6C8441C28C0F80041E6C5 /* Project object */;
+	rootObject = CCA795611C7184540098AC9D /* Project object */;
 }

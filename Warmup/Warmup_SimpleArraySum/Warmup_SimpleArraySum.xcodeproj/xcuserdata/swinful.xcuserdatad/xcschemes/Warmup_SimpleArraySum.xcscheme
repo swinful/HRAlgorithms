@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "CCB6C84B1C28C0F80041E6C5"
-               BuildableName = "Algorithms_Pairs"
-               BlueprintName = "Algorithms_Pairs"
-               ReferencedContainer = "container:Algorithms_Pairs.xcodeproj">
+               BlueprintIdentifier = "CCA7957B1C71855C0098AC9D"
+               BuildableName = "Warmup_SimpleArraySum"
+               BlueprintName = "Warmup_SimpleArraySum"
+               ReferencedContainer = "container:Warmup_SimpleArraySum.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "CCB6C84B1C28C0F80041E6C5"
-            BuildableName = "Algorithms_Pairs"
-            BlueprintName = "Algorithms_Pairs"
-            ReferencedContainer = "container:Algorithms_Pairs.xcodeproj">
+            BlueprintIdentifier = "CCA7957B1C71855C0098AC9D"
+            BuildableName = "Warmup_SimpleArraySum"
+            BlueprintName = "Warmup_SimpleArraySum"
+            ReferencedContainer = "container:Warmup_SimpleArraySum.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -55,10 +55,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "CCB6C84B1C28C0F80041E6C5"
-            BuildableName = "Algorithms_Pairs"
-            BlueprintName = "Algorithms_Pairs"
-            ReferencedContainer = "container:Algorithms_Pairs.xcodeproj">
+            BlueprintIdentifier = "CCA7957B1C71855C0098AC9D"
+            BuildableName = "Warmup_SimpleArraySum"
+            BlueprintName = "Warmup_SimpleArraySum"
+            ReferencedContainer = "container:Warmup_SimpleArraySum.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -74,10 +74,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "CCB6C84B1C28C0F80041E6C5"
-            BuildableName = "Algorithms_Pairs"
-            BlueprintName = "Algorithms_Pairs"
-            ReferencedContainer = "container:Algorithms_Pairs.xcodeproj">
+            BlueprintIdentifier = "CCA7957B1C71855C0098AC9D"
+            BuildableName = "Warmup_SimpleArraySum"
+            BlueprintName = "Warmup_SimpleArraySum"
+            ReferencedContainer = "container:Warmup_SimpleArraySum.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
