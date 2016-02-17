@@ -12,6 +12,9 @@
       location = "container:"
       name = "Warmup">
       <FileRef
+         location = "group:Warmup/Warmup_AVeryBigSum/Warmup_AVeryBigSum.xcodeproj">
+      </FileRef>
+      <FileRef
          location = "group:Warmup/Warmup_SimpleArraySum/Warmup_SimpleArraySum.xcodeproj">
       </FileRef>
       <FileRef
