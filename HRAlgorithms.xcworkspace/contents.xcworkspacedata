@@ -5,10 +5,13 @@
       location = "container:"
       name = "Sorting">
       <FileRef
+         location = "group:Sorting/Sorting_Insertion2/Sorting_Insertion2.xcodeproj">
+      </FileRef>
+      <FileRef
          location = "group:Sorting/Sorting_Introduction/Sorting_Introduction.xcodeproj">
       </FileRef>
       <FileRef
-         location = "group:Sorting/Sorting_InsersionSort1/Sorting_InsersionSort1.xcodeproj">
+         location = "group:Sorting/Sorting_InsertionSort1/Sorting_InsertionSort1.xcodeproj">
       </FileRef>
    </Group>
    <Group
