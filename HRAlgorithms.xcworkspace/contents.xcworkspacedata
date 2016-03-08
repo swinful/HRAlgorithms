@@ -3,6 +3,13 @@
    version = "1.0">
    <Group
       location = "container:"
+      name = "Sorting">
+      <FileRef
+        location = "group:Sorting/Sorting_InsersionSort1/Sorting_InsersionSort1.xcodeproj">
+      </FileRef>
+   </Group>
+   <Group
+      location = "container:"
       name = "Implementation">
       <FileRef
          location = "group:Implementation/Implementation_LibraryFine/Implementation_LibraryFine.xcodeproj">
