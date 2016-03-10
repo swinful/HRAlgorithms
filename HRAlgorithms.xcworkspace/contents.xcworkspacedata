@@ -5,13 +5,13 @@
       location = "container:"
       name = "Sorting">
       <FileRef
-         location = "group:Sorting/Sorting_Insertion2/Sorting_Insertion2.xcodeproj">
-      </FileRef>
-      <FileRef
          location = "group:Sorting/Sorting_Introduction/Sorting_Introduction.xcodeproj">
       </FileRef>
       <FileRef
          location = "group:Sorting/Sorting_InsertionSort1/Sorting_InsertionSort1.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:/Users/swinful/MyDocuments/gitHub/HRAlgorithms/Sorting/Sorting_InsertionSort2/Sorting_InsertionSort2.xcodeproj">
       </FileRef>
    </Group>
    <Group
