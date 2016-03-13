@@ -5,6 +5,9 @@
       location = "container:"
       name = "Sorting">
       <FileRef
+         location = "group:Sorting/Sorting_CorrectnessLoopInvariant/Sorting_CorrectnessLoopInvariant.xcodeproj">
+      </FileRef>
+      <FileRef
          location = "group:Sorting/Sorting_Introduction/Sorting_Introduction.xcodeproj">
       </FileRef>
       <FileRef

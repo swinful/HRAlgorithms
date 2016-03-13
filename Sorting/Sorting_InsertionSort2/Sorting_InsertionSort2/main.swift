@@ -35,4 +35,3 @@ func insertionSort(inout theArray: [Int]) {
 let s     = Int(readLine()!)!
 var array = readLine()!.componentsSeparatedByString(" ").map { Int(String($0))! }
 insertionSort(&array)
-
